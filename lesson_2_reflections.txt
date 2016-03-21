@@ -10,3 +10,18 @@ What value do you think it offers?
     repository consist multiple screenshot of staging area. Staging area consist
     of those files only which are added or you can say tracked. It offers that
     we should commit only 1 logical change at a time.
+
+How can you use the staging area to make sure you have one commit per logical change?
+    
+    We can compare the working directory and staging area to
+    find the difference and commit the one by one.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+    When we are trying some test functionality or want to introdue a new feature and
+    it not finished yet and it might have bugs.
+
+How do the diagrams help you visualize the branch structure?
+    
+    Diagrams help us to visualize which commit will not be show up on any branch and help us to create a seprate branch there.
