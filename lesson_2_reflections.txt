@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    Initializig a repo alert the git that it should be versioned and we can ourself
+    commit to create versions of it.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+    Working directory includes the current both files tracked or untracked and
+    repository consist multiple screenshot of staging area. Staging area consist
+    of those files only which are added or you can say tracked. It offers that
+    we should commit only 1 logical change at a time.
